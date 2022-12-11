@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Exercise2
 {
-    internal class Restarting
+    internal class Code
     {
         static void Main(string[] args)
         {
